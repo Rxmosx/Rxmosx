@@ -57,12 +57,12 @@ Filosofia ... entender o "porquê", não só decorar o "como"
 ## 📊 GitHub stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=catppuccin_mocha&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rxmosx&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rxmosx&layout=compact&theme=catppuccin_mocha&hide_border=true" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=catppuccin-mocha&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rxmosx&theme=catppuccin-mocha&hide_border=true" />
 </div>
 
 <br>
@@ -72,8 +72,8 @@ Filosofia ... entender o "porquê", não só decorar o "como"
 ### contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rxmosx/Rxmosx/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/Rxmosx/Rxmosx/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
