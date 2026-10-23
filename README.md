@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Rxmosx@github&fontColor=cdd6f4&fontSize=46&color=0:1e1e2e,100:313244&animation=fadeIn&fontAlignY=60" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=89DCEB&center=true&vCenter=true&width=600&lines=Estudante+de+Computa%C3%A7%C3%A3o+%E2%80%94+UFSM;Full+stack%3A+React+%2B+Java+%2B+PostgreSQL;btw%2C+eu+uso+Arch;Sempre+perguntando+%22por+qu%C3%AA%3F%22+antes+de+%22como%22" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=89DCEB&center=true&vCenter=true&width=600&lines=Estudante+de+Computa%C3%A7%C3%A3o+%E2%80%94+UFSM;Full+stack%3A+React+%2B+Java+%2B+PostgreSQL;Sempre+perguntando+%22por+qu%C3%AA%3F%22+antes+de+%22como%22" />
 
 </div>
 
@@ -17,7 +17,6 @@ Shell ....... zsh
 Curso ....... Sistemas para Internet — UFSM
 Idioma ...... pt-BR · En-US
 Stack ....... Java · Spring | Python · Django | Front · React
-Filosofia ... entender o "porquê", não só decorar o "como"
 ```
 
 <br>
